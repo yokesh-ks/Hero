@@ -1,2 +1,2 @@
-Live Link - https://yokesh-ks.github.io/HeroSection/Design-2/
+Live Link - https://yokesh-ks.github.io/Hero/Design-2/
 
